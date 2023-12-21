@@ -136,7 +136,7 @@ Test Folder-----
 ### Links for downloading the public Datasets:
 
 1. LGG Dataset -  [Kaggle: Your Home for Data Science](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
-2. Covid19 Dataset - [**http://medicalsegmentation.com/covid19/**](#inbox/_blank)
+2. Covid19 Dataset - [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/)
 
 ## Train and Test
 
