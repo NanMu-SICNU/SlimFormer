@@ -1,20 +1,20 @@
 # Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation
 
-- This repository provides code for  the paper  “***\*Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation\****”
+- This repository provides code for  the paper  “**Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation**”
 - If you have any questions about our paper, feel free to contact us.
 
 ------
 
 ## About this repository:
 
-This repo hosts the code for the following networks:
+This repository hosts the code for the following networks:
 
 1. Axial-attention (model name: attresunet)
 2. Axial-DeepLab (model name: axailunet)
 3. Gated Axial Attention U-Net (model name: gated)
-4. resunet (model name: resunet )
-5. unet (model name: unet )
-6. slimmable Tranformer (model name: slimmable )
+4. Resunet (model name: resunet )
+5. Unet (model name: unet )
+6. Slimmable Tranformer (model name: slimmable )
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The transformer architecture has achieved remarkable success in medical image an
 
 ![image-model](./img/image-model.png)
 
-Figure 1. A diagram showing the architecture of the proposed model. The proposed hybrid axial-attention block is a fundamental building block of the encoder, which propagates information along the height-axis and width-axis sequentially to model the long-range dependency. A width-axis position attention block shows the entire process of calculating the attention score by combining LPE with APE.
+A diagram showing the architecture of the proposed model. The proposed hybrid axial-attention block is a fundamental building block of the encoder, which propagates information along the height-axis and width-axis sequentially to model the long-range dependency. A width-axis position attention block shows the entire process of calculating the attention score by combining LPE with APE.
 
 ## Using the Code
 
@@ -146,7 +146,7 @@ Test Folder-----
 python train.py --train_dataset "enter train directory" --val_dataset "enter validation directory" --direc 'path for results to be saved' --batch_size 1 --epoch 100 --save_freq 10 --modelname "weighted" --learning_rate 0.001 --imgsize 256 --gray "no"
 ```
 
-Change model name to unet, resunet or gated to train them (refer to ***About this repo***), when training is completed, the weights will be saved in the path you indicate (i.e. **model_best.pth). 
+Change model name to unet, resunet or gated to train them (refer to ***About this repository***), when training is completed, the weights will be saved in the path you indicate (i.e. **model_best.pth). 
 
 ### Testing Command:
 
