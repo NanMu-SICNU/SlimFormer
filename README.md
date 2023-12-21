@@ -1,6 +1,6 @@
 # Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation
 
-- This repository provides code for  the paper  “**Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation**”
+- This repository provides code for  the paper  “*Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation*”
 - If you have any questions about our paper, feel free to contact us.
 
 ------
