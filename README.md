@@ -5,7 +5,7 @@
 
 ------
 
-## About this repo:
+## About this repository:
 
 This repo hosts the code for the following networks:
 
