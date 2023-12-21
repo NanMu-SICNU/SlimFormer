@@ -5,8 +5,6 @@
 
 ------
 
-[TOC]
-
 ## About this repo:
 
 This repo hosts the code for the following networks:
@@ -162,6 +160,10 @@ The results including predicted segmentations maps will be placed in the results
 
 1)Note that these experiments were conducted in RTX 3090 GPU with 128 GB memory. 2)Google Colab Code is an unofficial implementation for quick train/test. Please follow original code for proper training.
 
-### Acknowledgements:
+### Cite:
 
-Nan Mu was supported by the National Natural Science Foundation of China (62006165) and a Postdoctoral Fellowship Award from the American Heart Association (23POST1022454).
+If you find our code useful for your research, please cite our paper:
+
+Y. Hu, N. Mu; L. Liu, L. Zhang, and J. Jiang, "Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation", Computers in Biology and Medicine, 2024. (Under Review)
+
+In case of any questions, please contact the corresponding author N. Mu at nanmu@sicnu.edu.cn
