@@ -164,6 +164,6 @@ The results including predicted segmentations maps will be placed in the results
 
 If you find our code useful for your research, please cite our paper:
 
-Y. Hu, N. Mu; L. Liu, L. Zhang, and J. Jiang, "Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation", Computers in Biology and Medicine, 2024. (Under Review)
+Y. Hu, N. Mu, L. Liu, L. Zhang, and J. Jiang, "Slimmable Transformer with Hybrid Axial-Attention for Medical Image Segmentation", Computers in Biology and Medicine, 2024. (**Under Review**)
 
 In case of any questions, please contact the corresponding author N. Mu at nanmu@sicnu.edu.cn
