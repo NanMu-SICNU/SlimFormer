@@ -160,7 +160,7 @@ The results including predicted segmentations maps will be placed in the results
 
 1)Note that these experiments were conducted in RTX 3090 GPU with 128 GB memory. 2)Google Colab Code is an unofficial implementation for quick train/test. Please follow original code for proper training.
 
-### Cite:
+## Cite
 
 If you find our code useful for your research, please cite our paper:
 
